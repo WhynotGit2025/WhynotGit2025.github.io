@@ -223,9 +223,7 @@ button { font: inherit; }
 .project-actions a:hover { color: var(--accent); }
 .tennis-card .project-media img { object-position: center 46%; }
 .pixdlm-card .project-media { background: #fff; }
-.pixdlm-card .project-media img { object-fit: contain; padding: 14px; }
 .paper-card .project-media { background: #fbfbfa; }
-.paper-card .project-media img { object-fit: contain; padding: 16px; }
 .paper-card .project-body h3 { font-size: 24px; line-height: 1.3; }
 .project-body .paper-full-title,
 .project-body .paper-authors { color: #6e7478; font-family: Georgia, "Times New Roman", serif; font-size: 12px; font-style: normal; line-height: 1.5; }
